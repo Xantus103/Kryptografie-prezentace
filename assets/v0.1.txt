@@ -1,7 +1,0 @@
-Slidy 5 a 7
-Vigenérova šifra
-Udělána osnova pro většinu prezentace
-Animace do slidu 6
-v0.2:
-Dodělat všechny nedodělané slidy a animace
-Přidat poslední 2 slidy
