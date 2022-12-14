@@ -1,0 +1,3 @@
+Fixes (hopefully)
+-readme new lines
+-removed šifrování jž.pp_x
