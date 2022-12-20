@@ -1,0 +1,4 @@
+Title: Lettres en code Morse
+Author: F1jmm
+Source: https://commons.wikimedia.org/wiki/File:Lettres_en_code_Morse_fr_en.png
+License: CC BY-SA 4.0
