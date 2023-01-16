@@ -2,7 +2,7 @@ README
 ----------------------------------------  
 Projekt prezentace třídy I11  
 Téma prezentace - kryptografie  
-Rozsah prezentace - cca 20 snímků (ve finální verzi bude uvedeno)  
+Rozsah prezentace - 18 snímků  
   
 Soubory  
 Všechny pomocné soubory jsou uchovávány v podsložkách složky assets  

@@ -1,0 +1,10 @@
+Finální verze  
+Obsahuje:  
+	Základní pojmy z kryptografie  
+	Historie a principy šifer  
+	Užití šifer v praxi  
+	Kódování  
+	Hash  
+  
+  
+Aktuální k datu: 16.1.2023  
